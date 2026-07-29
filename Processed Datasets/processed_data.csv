@@ -1,0 +1,224 @@
+tag,pattern,response,pattern_length,response_length
+greeting,Hi,Hello! How can I assist you with Medical Assistance today?,1,10
+greeting,Hello,Hello! How can I assist you with Medical Assistance today?,1,10
+greeting,Hey,Hello! How can I assist you with Medical Assistance today?,1,10
+greeting,Greetings,Hello! How can I assist you with Medical Assistance today?,1,10
+cancer_general,What is cancer?,"Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. It can develop in almost any organ or tissue of the body and has various types, each with its unique characteristics and treatment approaches.",3,40
+cancer_general,Tell me about cancer,"Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. It can develop in almost any organ or tissue of the body and has various types, each with its unique characteristics and treatment approaches.",4,40
+cancer_general,Explain cancer types,"Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. It can develop in almost any organ or tissue of the body and has various types, each with its unique characteristics and treatment approaches.",3,40
+cancer_general,How does cancer develop?,"Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. It can develop in almost any organ or tissue of the body and has various types, each with its unique characteristics and treatment approaches.",4,40
+cancer_types,Tell me about lung cancer,"Cancer types include lung cancer, breast cancer, prostate cancer, leukemia, skin cancer, among others. Each type has specific subtypes and characteristics.",5,21
+cancer_types,What are the types of breast cancer?,"Cancer types include lung cancer, breast cancer, prostate cancer, leukemia, skin cancer, among others. Each type has specific subtypes and characteristics.",7,21
+cancer_types,Explain prostate cancer,"Cancer types include lung cancer, breast cancer, prostate cancer, leukemia, skin cancer, among others. Each type has specific subtypes and characteristics.",3,21
+cancer_types,What are the subtypes of leukemia?,"Cancer types include lung cancer, breast cancer, prostate cancer, leukemia, skin cancer, among others. Each type has specific subtypes and characteristics.",6,21
+cancer_types,Different types of skin cancer?,"Cancer types include lung cancer, breast cancer, prostate cancer, leukemia, skin cancer, among others. Each type has specific subtypes and characteristics.",5,21
+cancer_symptoms,"Persistent coughing, chest pain, shortness of breath, and coughing up blood.","It seems like you may be experiencing symptoms related to cancer. These symptoms can be associated with different types of cancer, including lung cancer, breast cancer, prostate cancer, leukemia, and skin cancer. Understanding these symptoms is crucial for early detection and treatment.",11,42
+cancer_symptoms,"Lump or thickening in the breast or underarm area, changes in breast size or shape, nipple changes or discharge.","It seems like you may be experiencing symptoms related to cancer. These symptoms can be associated with different types of cancer, including lung cancer, breast cancer, prostate cancer, leukemia, and skin cancer. Understanding these symptoms is crucial for early detection and treatment.",19,42
+cancer_symptoms,"Difficulty urinating, weak or interrupted urine flow, blood in the urine or semen, erectile dysfunction, pain in the hips, back, or chest.","It seems like you may be experiencing symptoms related to cancer. These symptoms can be associated with different types of cancer, including lung cancer, breast cancer, prostate cancer, leukemia, and skin cancer. Understanding these symptoms is crucial for early detection and treatment.",22,42
+cancer_symptoms,"Fatigue, frequent infections, easy bruising or bleeding, swollen lymph nodes, bone pain.","It seems like you may be experiencing symptoms related to cancer. These symptoms can be associated with different types of cancer, including lung cancer, breast cancer, prostate cancer, leukemia, and skin cancer. Understanding these symptoms is crucial for early detection and treatment.",12,42
+cancer_symptoms,"Changes in the size, shape, or color of a mole or other skin lesion, a sore that does not heal, itching, tenderness, or pain in the affected area.","It seems like you may be experiencing symptoms related to cancer. These symptoms can be associated with different types of cancer, including lung cancer, breast cancer, prostate cancer, leukemia, and skin cancer. Understanding these symptoms is crucial for early detection and treatment.",28,42
+cancer_prevention,How can I prevent cancer?,"Preventing cancer involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet rich in fruits, vegetables, and whole grains.
+2. Avoid tobacco and limit alcohol consumption.
+3. Protect yourself from the sun and avoid excessive exposure to UV radiation.
+4. Get regular exercise and stay physically active.
+5. Follow recommended cancer screening guidelines and get vaccinated against viruses associated with cancer risk, such as HPV.",5,80
+cancer_prevention,What are the ways to reduce the risk of cancer?,"Preventing cancer involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet rich in fruits, vegetables, and whole grains.
+2. Avoid tobacco and limit alcohol consumption.
+3. Protect yourself from the sun and avoid excessive exposure to UV radiation.
+4. Get regular exercise and stay physically active.
+5. Follow recommended cancer screening guidelines and get vaccinated against viruses associated with cancer risk, such as HPV.",10,80
+cancer_prevention,Are there any lifestyle changes to lower cancer risk?,"Preventing cancer involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet rich in fruits, vegetables, and whole grains.
+2. Avoid tobacco and limit alcohol consumption.
+3. Protect yourself from the sun and avoid excessive exposure to UV radiation.
+4. Get regular exercise and stay physically active.
+5. Follow recommended cancer screening guidelines and get vaccinated against viruses associated with cancer risk, such as HPV.",9,80
+cancer_prevention,How can I lower my chances of getting cancer?,"Preventing cancer involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet rich in fruits, vegetables, and whole grains.
+2. Avoid tobacco and limit alcohol consumption.
+3. Protect yourself from the sun and avoid excessive exposure to UV radiation.
+4. Get regular exercise and stay physically active.
+5. Follow recommended cancer screening guidelines and get vaccinated against viruses associated with cancer risk, such as HPV.",9,80
+cancer_prevention,What are the preventive measures against cancer?,"Preventing cancer involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet rich in fruits, vegetables, and whole grains.
+2. Avoid tobacco and limit alcohol consumption.
+3. Protect yourself from the sun and avoid excessive exposure to UV radiation.
+4. Get regular exercise and stay physically active.
+5. Follow recommended cancer screening guidelines and get vaccinated against viruses associated with cancer risk, such as HPV.",7,80
+diabetes_general,What is diabetes?,Diabetes is a chronic disease characterized by high levels of sugar (glucose) in the blood. It occurs when the body doesn't produce enough insulin or doesn't use it effectively.,3,29
+diabetes_general,Tell me about diabetes,Diabetes is a chronic disease characterized by high levels of sugar (glucose) in the blood. It occurs when the body doesn't produce enough insulin or doesn't use it effectively.,4,29
+diabetes_general,Explain diabetes types,Diabetes is a chronic disease characterized by high levels of sugar (glucose) in the blood. It occurs when the body doesn't produce enough insulin or doesn't use it effectively.,3,29
+diabetes_general,How does diabetes develop?,Diabetes is a chronic disease characterized by high levels of sugar (glucose) in the blood. It occurs when the body doesn't produce enough insulin or doesn't use it effectively.,4,29
+diabetes_types,Tell me about type 1 diabetes,"Diabetes types include type 1 diabetes, type 2 diabetes, gestational diabetes, and others. Each type has specific characteristics and treatment approaches.",6,21
+diabetes_types,What are the types of diabetes?,"Diabetes types include type 1 diabetes, type 2 diabetes, gestational diabetes, and others. Each type has specific characteristics and treatment approaches.",6,21
+diabetes_types,Explain type 2 diabetes,"Diabetes types include type 1 diabetes, type 2 diabetes, gestational diabetes, and others. Each type has specific characteristics and treatment approaches.",4,21
+diabetes_types,What are the subtypes of diabetes?,"Diabetes types include type 1 diabetes, type 2 diabetes, gestational diabetes, and others. Each type has specific characteristics and treatment approaches.",6,21
+diabetes_types,Different types of diabetes?,"Diabetes types include type 1 diabetes, type 2 diabetes, gestational diabetes, and others. Each type has specific characteristics and treatment approaches.",4,21
+diabetes_symptoms,"Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, irritability.","It seems like you may be experiencing symptoms related to diabetes. These symptoms can vary depending on the type of diabetes you have, whether it's type 1, type 2, or gestational diabetes. It's essential to monitor these symptoms and consult with a healthcare professional for proper diagnosis and management.",11,49
+diabetes_symptoms,"Increased thirst, frequent urination, increased hunger, fatigue, blurred vision, slow-healing sores or frequent infections.","It seems like you may be experiencing symptoms related to diabetes. These symptoms can vary depending on the type of diabetes you have, whether it's type 1, type 2, or gestational diabetes. It's essential to monitor these symptoms and consult with a healthcare professional for proper diagnosis and management.",14,49
+diabetes_symptoms,"Increased thirst, frequent urination, fatigue, nausea, blurred vision, frequent infections.","It seems like you may be experiencing symptoms related to diabetes. These symptoms can vary depending on the type of diabetes you have, whether it's type 1, type 2, or gestational diabetes. It's essential to monitor these symptoms and consult with a healthcare professional for proper diagnosis and management.",10,49
+diabetes_symptoms,"Frequent urination, increased thirst, extreme hunger, unexplained weight loss, fatigue, blurred vision.","It seems like you may be experiencing symptoms related to diabetes. These symptoms can vary depending on the type of diabetes you have, whether it's type 1, type 2, or gestational diabetes. It's essential to monitor these symptoms and consult with a healthcare professional for proper diagnosis and management.",12,49
+diabetes_prevention,How can I prevent diabetes?,"Preventing diabetes involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet low in processed foods and added sugars.
+2. Get regular physical activity and exercise.
+3. Monitor your blood sugar levels regularly, especially if you have risk factors for diabetes.
+4. Avoid smoking and limit alcohol consumption.
+5. Follow medical advice and take prescribed medications if you have prediabetes or are at high risk for diabetes.",5,82
+diabetes_prevention,What are the ways to reduce the risk of diabetes?,"Preventing diabetes involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet low in processed foods and added sugars.
+2. Get regular physical activity and exercise.
+3. Monitor your blood sugar levels regularly, especially if you have risk factors for diabetes.
+4. Avoid smoking and limit alcohol consumption.
+5. Follow medical advice and take prescribed medications if you have prediabetes or are at high risk for diabetes.",10,82
+diabetes_prevention,Are there any lifestyle changes to lower diabetes risk?,"Preventing diabetes involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet low in processed foods and added sugars.
+2. Get regular physical activity and exercise.
+3. Monitor your blood sugar levels regularly, especially if you have risk factors for diabetes.
+4. Avoid smoking and limit alcohol consumption.
+5. Follow medical advice and take prescribed medications if you have prediabetes or are at high risk for diabetes.",9,82
+diabetes_prevention,How can I lower my chances of getting diabetes?,"Preventing diabetes involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet low in processed foods and added sugars.
+2. Get regular physical activity and exercise.
+3. Monitor your blood sugar levels regularly, especially if you have risk factors for diabetes.
+4. Avoid smoking and limit alcohol consumption.
+5. Follow medical advice and take prescribed medications if you have prediabetes or are at high risk for diabetes.",9,82
+diabetes_prevention,What are the preventive measures against diabetes?,"Preventing diabetes involves making healthy lifestyle choices and taking proactive measures. Here are some key prevention methods:
+1. Maintain a healthy weight and adopt a balanced diet low in processed foods and added sugars.
+2. Get regular physical activity and exercise.
+3. Monitor your blood sugar levels regularly, especially if you have risk factors for diabetes.
+4. Avoid smoking and limit alcohol consumption.
+5. Follow medical advice and take prescribed medications if you have prediabetes or are at high risk for diabetes.",7,82
+alzheimers_general,What is Alzheimer's disease?,"Alzheimer's disease is a progressive disorder that causes brain cells to degenerate and die, resulting in memory loss and decline in cognitive abilities.",4,23
+alzheimers_general,Tell me about Alzheimer's,"Alzheimer's disease is a progressive disorder that causes brain cells to degenerate and die, resulting in memory loss and decline in cognitive abilities.",4,23
+alzheimers_general,Explain Alzheimer's types,"Alzheimer's disease is a progressive disorder that causes brain cells to degenerate and die, resulting in memory loss and decline in cognitive abilities.",3,23
+alzheimers_general,How does Alzheimer's develop?,"Alzheimer's disease is a progressive disorder that causes brain cells to degenerate and die, resulting in memory loss and decline in cognitive abilities.",4,23
+alzheimers_types,Tell me about early-onset Alzheimer's,"Alzheimer's disease may be categorized based on age of onset, such as early-onset Alzheimer's and late-onset Alzheimer's. It can also be classified based on the progression and symptoms.",5,28
+alzheimers_types,What are the types of Alzheimer's?,"Alzheimer's disease may be categorized based on age of onset, such as early-onset Alzheimer's and late-onset Alzheimer's. It can also be classified based on the progression and symptoms.",6,28
+alzheimers_types,Explain late-onset Alzheimer's,"Alzheimer's disease may be categorized based on age of onset, such as early-onset Alzheimer's and late-onset Alzheimer's. It can also be classified based on the progression and symptoms.",3,28
+alzheimers_types,What are the subtypes of Alzheimer's?,"Alzheimer's disease may be categorized based on age of onset, such as early-onset Alzheimer's and late-onset Alzheimer's. It can also be classified based on the progression and symptoms.",6,28
+alzheimers_types,Different types of Alzheimer's disease?,"Alzheimer's disease may be categorized based on age of onset, such as early-onset Alzheimer's and late-onset Alzheimer's. It can also be classified based on the progression and symptoms.",5,28
+alzheimers_symptoms,"Memory loss - Forgetting recently learned information or important dates, relying on memory aids or family members for things they used to handle on their own.","It seems like you may be experiencing symptoms related to Alzheimer's disease. These symptoms typically include memory loss, confusion, difficulty with problem-solving or completing familiar tasks, changes in mood or personality, and withdrawal from social activities. Early detection and management are crucial for improving the quality of life of individuals with Alzheimer's.",26,52
+alzheimers_symptoms,"Confusion - Disorientation in time and place, not recognizing familiar faces or places, forgetting the purpose of familiar objects.","It seems like you may be experiencing symptoms related to Alzheimer's disease. These symptoms typically include memory loss, confusion, difficulty with problem-solving or completing familiar tasks, changes in mood or personality, and withdrawal from social activities. Early detection and management are crucial for improving the quality of life of individuals with Alzheimer's.",19,52
+alzheimers_symptoms,"Difficulty with problem-solving or completing familiar tasks - Struggling to follow a familiar recipe, difficulty managing bills or following a plan.","It seems like you may be experiencing symptoms related to Alzheimer's disease. These symptoms typically include memory loss, confusion, difficulty with problem-solving or completing familiar tasks, changes in mood or personality, and withdrawal from social activities. Early detection and management are crucial for improving the quality of life of individuals with Alzheimer's.",21,52
+alzheimers_symptoms,"Changes in mood or personality - Becoming suspicious, depressed, fearful, or anxious, experiencing sudden mood swings or unexplained changes in behavior.","It seems like you may be experiencing symptoms related to Alzheimer's disease. These symptoms typically include memory loss, confusion, difficulty with problem-solving or completing familiar tasks, changes in mood or personality, and withdrawal from social activities. Early detection and management are crucial for improving the quality of life of individuals with Alzheimer's.",21,52
+alzheimers_symptoms,"Withdrawal from social activities - Avoiding social interactions or neglecting hobbies and activities they once enjoyed, preferring to be alone or experiencing difficulty in social situations.","It seems like you may be experiencing symptoms related to Alzheimer's disease. These symptoms typically include memory loss, confusion, difficulty with problem-solving or completing familiar tasks, changes in mood or personality, and withdrawal from social activities. Early detection and management are crucial for improving the quality of life of individuals with Alzheimer's.",26,52
+alzheimers_prevention,How can I prevent Alzheimer's disease?,"While there's no proven way to prevent Alzheimer's disease, you can reduce your risk through healthy lifestyle choices and brain-healthy habits. Here are some key prevention methods:
+1. Stay mentally and socially active by engaging in stimulating activities and maintaining social connections.
+2. Follow a heart-healthy diet rich in fruits, vegetables, and omega-3 fatty acids.
+3. Exercise regularly, including both aerobic and strength training.
+4. Get quality sleep and manage stress effectively.
+5. Stay mentally and emotionally resilient, and seek help for depression or anxiety if needed.",6,87
+alzheimers_prevention,What are the ways to reduce the risk of Alzheimer's?,"While there's no proven way to prevent Alzheimer's disease, you can reduce your risk through healthy lifestyle choices and brain-healthy habits. Here are some key prevention methods:
+1. Stay mentally and socially active by engaging in stimulating activities and maintaining social connections.
+2. Follow a heart-healthy diet rich in fruits, vegetables, and omega-3 fatty acids.
+3. Exercise regularly, including both aerobic and strength training.
+4. Get quality sleep and manage stress effectively.
+5. Stay mentally and emotionally resilient, and seek help for depression or anxiety if needed.",10,87
+alzheimers_prevention,Are there any lifestyle changes to lower Alzheimer's risk?,"While there's no proven way to prevent Alzheimer's disease, you can reduce your risk through healthy lifestyle choices and brain-healthy habits. Here are some key prevention methods:
+1. Stay mentally and socially active by engaging in stimulating activities and maintaining social connections.
+2. Follow a heart-healthy diet rich in fruits, vegetables, and omega-3 fatty acids.
+3. Exercise regularly, including both aerobic and strength training.
+4. Get quality sleep and manage stress effectively.
+5. Stay mentally and emotionally resilient, and seek help for depression or anxiety if needed.",9,87
+alzheimers_prevention,How can I lower my chances of getting Alzheimer's?,"While there's no proven way to prevent Alzheimer's disease, you can reduce your risk through healthy lifestyle choices and brain-healthy habits. Here are some key prevention methods:
+1. Stay mentally and socially active by engaging in stimulating activities and maintaining social connections.
+2. Follow a heart-healthy diet rich in fruits, vegetables, and omega-3 fatty acids.
+3. Exercise regularly, including both aerobic and strength training.
+4. Get quality sleep and manage stress effectively.
+5. Stay mentally and emotionally resilient, and seek help for depression or anxiety if needed.",9,87
+alzheimers_prevention,What are the preventive measures against Alzheimer's?,"While there's no proven way to prevent Alzheimer's disease, you can reduce your risk through healthy lifestyle choices and brain-healthy habits. Here are some key prevention methods:
+1. Stay mentally and socially active by engaging in stimulating activities and maintaining social connections.
+2. Follow a heart-healthy diet rich in fruits, vegetables, and omega-3 fatty acids.
+3. Exercise regularly, including both aerobic and strength training.
+4. Get quality sleep and manage stress effectively.
+5. Stay mentally and emotionally resilient, and seek help for depression or anxiety if needed.",7,87
+hypertension_general,What is hypertension?,"Hypertension, or high blood pressure, is a condition where the force of the blood against the artery walls is consistently too high. It can lead to serious health problems if left untreated.",3,32
+hypertension_general,Tell me about hypertension,"Hypertension, or high blood pressure, is a condition where the force of the blood against the artery walls is consistently too high. It can lead to serious health problems if left untreated.",4,32
+hypertension_general,Explain high blood pressure,"Hypertension, or high blood pressure, is a condition where the force of the blood against the artery walls is consistently too high. It can lead to serious health problems if left untreated.",4,32
+hypertension_general,How does hypertension develop?,"Hypertension, or high blood pressure, is a condition where the force of the blood against the artery walls is consistently too high. It can lead to serious health problems if left untreated.",4,32
+hypertension_types,Tell me about primary hypertension,"Hypertension may be classified as primary hypertension, which has no identifiable cause, and secondary hypertension, which is caused by an underlying condition such as kidney disease or hormonal disorders.",5,29
+hypertension_types,What are the types of hypertension?,"Hypertension may be classified as primary hypertension, which has no identifiable cause, and secondary hypertension, which is caused by an underlying condition such as kidney disease or hormonal disorders.",6,29
+hypertension_types,Explain secondary hypertension,"Hypertension may be classified as primary hypertension, which has no identifiable cause, and secondary hypertension, which is caused by an underlying condition such as kidney disease or hormonal disorders.",3,29
+hypertension_types,What are the subtypes of hypertension?,"Hypertension may be classified as primary hypertension, which has no identifiable cause, and secondary hypertension, which is caused by an underlying condition such as kidney disease or hormonal disorders.",6,29
+hypertension_types,Different types of high blood pressure?,"Hypertension may be classified as primary hypertension, which has no identifiable cause, and secondary hypertension, which is caused by an underlying condition such as kidney disease or hormonal disorders.",6,29
+hypertension_symptoms,"Severe headache - Intense and persistent headaches, especially at the back of the head or in the morning upon waking.","Hypertension is often asymptomatic, but severe cases or hypertensive crises may present symptoms such as severe headache, chest pain, difficulty breathing, visual changes, and nosebleeds.",20,25
+hypertension_symptoms,"Chest pain - Tightness, discomfort, or pressure in the chest area, which may radiate to the neck, jaw, back, or arms.","Hypertension is often asymptomatic, but severe cases or hypertensive crises may present symptoms such as severe headache, chest pain, difficulty breathing, visual changes, and nosebleeds.",21,25
+hypertension_symptoms,"Difficulty breathing - Shortness of breath, especially during physical exertion or when lying flat, which may indicate heart or lung complications.","Hypertension is often asymptomatic, but severe cases or hypertensive crises may present symptoms such as severe headache, chest pain, difficulty breathing, visual changes, and nosebleeds.",21,25
+hypertension_prevention,How can I prevent hypertension?,"Preventing hypertension involves adopting a healthy lifestyle and making smart choices. Here are some key prevention methods:
+1. Maintain a healthy weight and follow a balanced diet low in sodium, saturated fats, and cholesterol.
+2. Limit alcohol consumption and avoid excessive drinking.
+3. Exercise regularly and stay physically active.
+4. Manage stress through relaxation techniques and coping mechanisms.
+5. Monitor your blood pressure regularly and follow medical advice for its management if needed.",5,73
+hypertension_prevention,What are the ways to reduce the risk of high blood pressure?,"Preventing hypertension involves adopting a healthy lifestyle and making smart choices. Here are some key prevention methods:
+1. Maintain a healthy weight and follow a balanced diet low in sodium, saturated fats, and cholesterol.
+2. Limit alcohol consumption and avoid excessive drinking.
+3. Exercise regularly and stay physically active.
+4. Manage stress through relaxation techniques and coping mechanisms.
+5. Monitor your blood pressure regularly and follow medical advice for its management if needed.",12,73
+hypertension_prevention,Are there any lifestyle changes to lower hypertension risk?,"Preventing hypertension involves adopting a healthy lifestyle and making smart choices. Here are some key prevention methods:
+1. Maintain a healthy weight and follow a balanced diet low in sodium, saturated fats, and cholesterol.
+2. Limit alcohol consumption and avoid excessive drinking.
+3. Exercise regularly and stay physically active.
+4. Manage stress through relaxation techniques and coping mechanisms.
+5. Monitor your blood pressure regularly and follow medical advice for its management if needed.",9,73
+hypertension_prevention,How can I lower my chances of getting hypertension?,"Preventing hypertension involves adopting a healthy lifestyle and making smart choices. Here are some key prevention methods:
+1. Maintain a healthy weight and follow a balanced diet low in sodium, saturated fats, and cholesterol.
+2. Limit alcohol consumption and avoid excessive drinking.
+3. Exercise regularly and stay physically active.
+4. Manage stress through relaxation techniques and coping mechanisms.
+5. Monitor your blood pressure regularly and follow medical advice for its management if needed.",9,73
+hypertension_prevention,What are the preventive measures against hypertension?,"Preventing hypertension involves adopting a healthy lifestyle and making smart choices. Here are some key prevention methods:
+1. Maintain a healthy weight and follow a balanced diet low in sodium, saturated fats, and cholesterol.
+2. Limit alcohol consumption and avoid excessive drinking.
+3. Exercise regularly and stay physically active.
+4. Manage stress through relaxation techniques and coping mechanisms.
+5. Monitor your blood pressure regularly and follow medical advice for its management if needed.",7,73
+stroke_general,What is a stroke?,"A stroke occurs when the blood supply to part of the brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. This can result in brain damage and potentially permanent disability or death.",4,35
+stroke_general,Tell me about strokes,"A stroke occurs when the blood supply to part of the brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. This can result in brain damage and potentially permanent disability or death.",4,35
+stroke_general,Explain stroke types,"A stroke occurs when the blood supply to part of the brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. This can result in brain damage and potentially permanent disability or death.",3,35
+stroke_general,How does a stroke develop?,"A stroke occurs when the blood supply to part of the brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. This can result in brain damage and potentially permanent disability or death.",5,35
+stroke_types,Tell me about ischemic stroke,"Strokes may be classified as ischemic stroke, caused by a blockage in a blood vessel supplying the brain, or hemorrhagic stroke, caused by bleeding in the brain. Each type has specific characteristics and treatment approaches.",5,35
+stroke_types,What are the types of strokes?,"Strokes may be classified as ischemic stroke, caused by a blockage in a blood vessel supplying the brain, or hemorrhagic stroke, caused by bleeding in the brain. Each type has specific characteristics and treatment approaches.",6,35
+stroke_types,Explain hemorrhagic stroke,"Strokes may be classified as ischemic stroke, caused by a blockage in a blood vessel supplying the brain, or hemorrhagic stroke, caused by bleeding in the brain. Each type has specific characteristics and treatment approaches.",3,35
+stroke_types,What are the subtypes of stroke?,"Strokes may be classified as ischemic stroke, caused by a blockage in a blood vessel supplying the brain, or hemorrhagic stroke, caused by bleeding in the brain. Each type has specific characteristics and treatment approaches.",6,35
+stroke_types,Different types of brain strokes?,"Strokes may be classified as ischemic stroke, caused by a blockage in a blood vessel supplying the brain, or hemorrhagic stroke, caused by bleeding in the brain. Each type has specific characteristics and treatment approaches.",5,35
+stroke_symptoms,"Sudden numbness or weakness of the face, arm, or leg, especially on one side of the body - This unilateral weakness or paralysis is a hallmark symptom of stroke.","Symptoms of a stroke may include sudden numbness or weakness of the face, arm, or leg, especially on one side of the body, confusion, trouble speaking or understanding speech, difficulty walking, dizziness, and severe headache.",29,35
+stroke_symptoms,Difficulty understanding speech or speaking - Stroke can cause slurred speech or difficulty in finding the right words.,"Symptoms of a stroke may include sudden numbness or weakness of the face, arm, or leg, especially on one side of the body, confusion, trouble speaking or understanding speech, difficulty walking, dizziness, and severe headache.",18,35
+stroke_symptoms,"Loss of balance or coordination - Stroke may lead to sudden dizziness, loss of balance, or difficulty walking.","Symptoms of a stroke may include sudden numbness or weakness of the face, arm, or leg, especially on one side of the body, confusion, trouble speaking or understanding speech, difficulty walking, dizziness, and severe headache.",18,35
+stroke_prevention,How can I prevent strokes?,"Preventing strokes involves making healthy lifestyle choices and managing underlying health conditions. Here are some key prevention methods:
+1. Control high blood pressure, cholesterol levels, and diabetes through medication and lifestyle changes.
+2. Maintain a healthy weight and follow a balanced diet low in saturated fats, trans fats, and cholesterol.
+3. Exercise regularly and stay physically active.
+4. Avoid smoking and limit alcohol consumption.
+5. Monitor your health regularly and seek medical attention for any warning signs or risk factors associated with strokes.",5,83
+stroke_prevention,What are the ways to reduce the risk of stroke?,"Preventing strokes involves making healthy lifestyle choices and managing underlying health conditions. Here are some key prevention methods:
+1. Control high blood pressure, cholesterol levels, and diabetes through medication and lifestyle changes.
+2. Maintain a healthy weight and follow a balanced diet low in saturated fats, trans fats, and cholesterol.
+3. Exercise regularly and stay physically active.
+4. Avoid smoking and limit alcohol consumption.
+5. Monitor your health regularly and seek medical attention for any warning signs or risk factors associated with strokes.",10,83
+stroke_prevention,Are there any lifestyle changes to lower stroke risk?,"Preventing strokes involves making healthy lifestyle choices and managing underlying health conditions. Here are some key prevention methods:
+1. Control high blood pressure, cholesterol levels, and diabetes through medication and lifestyle changes.
+2. Maintain a healthy weight and follow a balanced diet low in saturated fats, trans fats, and cholesterol.
+3. Exercise regularly and stay physically active.
+4. Avoid smoking and limit alcohol consumption.
+5. Monitor your health regularly and seek medical attention for any warning signs or risk factors associated with strokes.",9,83
+stroke_prevention,How can I lower my chances of getting a stroke?,"Preventing strokes involves making healthy lifestyle choices and managing underlying health conditions. Here are some key prevention methods:
+1. Control high blood pressure, cholesterol levels, and diabetes through medication and lifestyle changes.
+2. Maintain a healthy weight and follow a balanced diet low in saturated fats, trans fats, and cholesterol.
+3. Exercise regularly and stay physically active.
+4. Avoid smoking and limit alcohol consumption.
+5. Monitor your health regularly and seek medical attention for any warning signs or risk factors associated with strokes.",10,83
+stroke_prevention,What are the preventive measures against strokes?,"Preventing strokes involves making healthy lifestyle choices and managing underlying health conditions. Here are some key prevention methods:
+1. Control high blood pressure, cholesterol levels, and diabetes through medication and lifestyle changes.
+2. Maintain a healthy weight and follow a balanced diet low in saturated fats, trans fats, and cholesterol.
+3. Exercise regularly and stay physically active.
+4. Avoid smoking and limit alcohol consumption.
+5. Monitor your health regularly and seek medical attention for any warning signs or risk factors associated with strokes.",7,83
+send_off,Thank you,"You're welcome! If you have more cybersecurity questions, feel free to ask. Goodbye!",2,13
+send_off,Goodbye,"You're welcome! If you have more cybersecurity questions, feel free to ask. Goodbye!",1,13
+send_off,See you later,"You're welcome! If you have more cybersecurity questions, feel free to ask. Goodbye!",3,13
+send_off,Farewell,"You're welcome! If you have more cybersecurity questions, feel free to ask. Goodbye!",1,13
