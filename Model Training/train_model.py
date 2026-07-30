@@ -17,9 +17,9 @@ import joblib
 # -----------------------------
 # Load data
 # -----------------------------
-df = pd.read_csv("processed_data.csv")
+df = pd.read_csv("Processed Datasets/processed_data.csv")
 
-with open("intents.json", "r") as f:
+with open("Original Datasets/intents.json", "r") as f:
     intents_data = json.load(f)
 
 print(f"Loaded {len(df)} rows across {df['tag'].nunique()} tags")

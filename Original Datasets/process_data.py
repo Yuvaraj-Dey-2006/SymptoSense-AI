@@ -35,11 +35,11 @@ df = pd.DataFrame(rows)
 # Data Quality Checks
 # -----------------------------
 console.rule("[bold cyan]Dataset Overview[/bold cyan]")
-console.print(f"Shape: [bold bright_white]{df.shape[0]} rows x {df.shape[1]} columns[/bold bright_white]")
+console.print(f"Shape: [bold]{df.shape[0]}[/] rows x [bold]{df.shape[1]}[/] columns")
 
 console.print("\n[bold cyan]Tags and counts:[/bold cyan]")
 for tag, count in df["tag"].value_counts().items():
-    console.print(f"  {tag:<25} [bold bright_white]{count}[/bold bright_white]")
+    console.print(f"  {tag:<25} [bold]{count}[/]")
 
 console.rule("[bold cyan]Missing Values[/bold cyan]")
 for col, missing in df.isnull().sum().items():

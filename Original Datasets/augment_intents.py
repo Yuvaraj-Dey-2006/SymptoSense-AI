@@ -13,8 +13,8 @@ It reads intents.json and overwrites it with the augmented version
 import json
 import shutil
 
-INPUT_FILE = "intents.json"
-BACKUP_FILE = "intents_backup.json"
+INPUT_FILE = "Original Datasets/intents.json"
+BACKUP_FILE = "Original Datasets/intents_backup.json"
 
 # Extra patterns to append to each existing tag
 EXTRA_PATTERNS = {
