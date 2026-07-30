@@ -14,8 +14,8 @@ import streamlit as st
 # -----------------------------
 # Page config
 # -----------------------------
-st.set_page_config(page_title="AI Medical Symptom Assistant", page_icon="🩺")
-st.title("🩺 AI Medical Symptom Assistant")
+st.set_page_config(page_title="SymptoSense AI | AI Medical Symptom Assistant", page_icon="🩺")
+st.title("🩺 SymptoSense AI")
 st.caption(
     "This assistant covers cancer, diabetes, Alzheimer's, hypertension, and stroke. "
     "It is not a substitute for professional medical advice."
