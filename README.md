@@ -186,7 +186,8 @@ The trained model artifacts should be generated according to the configuration i
 Start the application using:
 
 ```bash
-python Deployment/app.py
+cd Deployment
+Streamlit run app.py
 ```
 
 The exact command and interface depend on the framework used in `app.py`.

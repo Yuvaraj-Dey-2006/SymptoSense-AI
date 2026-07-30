@@ -17,8 +17,10 @@ import streamlit as st
 st.set_page_config(page_title="SymptoSense AI | AI Medical Symptom Assistant", page_icon="🩺")
 st.title("🩺 SymptoSense AI")
 st.caption(
-    "This assistant covers cancer, diabetes, Alzheimer's, hypertension, and stroke. "
-    "It is not a substitute for professional medical advice."
+    "🩺 Welcome to SymptomSense AI!\n\n"
+    "Not feeling your best? Describe your symptoms in your own words, and I'll help identify the most relevant medical category and provide helpful information.\n\n"
+    "Supporting insights for cancer, diabetes, Alzheimer's disease, hypertension, and stroke.\n\n"
+    "⚠️ Remember: I'm here to inform, not diagnose. Always consult a healthcare professional for medical advice."
 )
 
 st.markdown("""
