@@ -41,7 +41,7 @@ y = df["tag"]
 # -----------------------------
 # Train classifier
 # -----------------------------
-clf = LogisticRegression(max_iter=1000)
+clf = LogisticRegression(max_iter=1000, C=10)
 clf.fit(X, y)
 
 # Quick sanity check on training data itself (not a real eval, just a smoke test)
@@ -51,8 +51,8 @@ print(f"Training accuracy (smoke test, not held-out): {train_acc:.3f}")
 # -----------------------------
 # Save artifacts
 # -----------------------------
-joblib.dump(vectorizer, "vectorizer.pkl")
-joblib.dump(clf, "classifier.pkl")
-joblib.dump(tag_to_responses, "tag_to_responses.pkl")
+joblib.dump(vectorizer, r"Model\vectorizer.pkl")
+joblib.dump(clf, r"Model\classifier.pkl")
+joblib.dump(tag_to_responses, r"Model\tag_to_responses.pkl")
 
 print("Saved: vectorizer.pkl, classifier.pkl, tag_to_responses.pkl")
