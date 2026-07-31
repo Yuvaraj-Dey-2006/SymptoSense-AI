@@ -28,7 +28,6 @@ dist/
 .env.*
 
 # Model files (optional)
-*.pkl
 *.joblib
 *.h5
 *.onnx
