@@ -10,6 +10,7 @@ Requires: streamlit, scikit-learn, joblib
 import random
 import joblib
 import streamlit as st
+from pathlib import Path
 
 # -----------------------------
 # Page config
@@ -91,11 +92,16 @@ st.markdown("""
 # -----------------------------
 # Load model artifacts (cached so it only loads once per session)
 # -----------------------------
+
+# Get the project root directory
+BASE_DIR = Path(__file__).resolve().parent.parent
+
 @st.cache_resource
 def load_artifacts():
-    vectorizer = joblib.load(r"..\Model\vectorizer.pkl")
-    clf = joblib.load(r"..\Model\classifier.pkl")
-    tag_to_responses = joblib.load(r"..\Model\tag_to_responses.pkl")
+    vectorizer = joblib.load(BASE_DIR / "Model" / "vectorizer.pkl")
+    clf = joblib.load(BASE_DIR / "Model" / "classifier.pkl")
+    tag_to_responses = joblib.load(BASE_DIR / "Model" / "tag_to_responses.pkl")
+
     return vectorizer, clf, tag_to_responses
 
 vectorizer, clf, tag_to_responses = load_artifacts()
