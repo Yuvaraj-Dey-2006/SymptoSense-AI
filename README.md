@@ -2,6 +2,10 @@
 
 An AI-powered symptom analysis project that uses natural language processing and machine learning to map user-described symptoms and patterns to likely intent categories and generate relevant responses.
 
+🚀 **Live Demo:** [SymptoSense AI](https://symptosense-ai-j3cqkohgjyjmkwm2qwhsj4.streamlit.app/)
+
+📂 **Source Code:** [On my GitHub](https://github.com/yourusername/SymptoSense-AI)
+
 > **Project status:** Development / academic project
 
 ## 📌 Overview
