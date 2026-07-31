@@ -265,11 +265,10 @@ The following generated or local files are excluded from version control:
 ```gitignore
 Original Datasets/*.json
 Processed Datasets/*.csv
-Model/*.pkl
 EDA/Plots/*.png
 ```
 
-These files are automatically generated or downloaded locally and are not required to be stored in the repository.
+These files are automatically generated or downloaded locally and are not required to be stored in the repository except the `.pkl` files.
 
 ## ⚠️ Disclaimer
 
